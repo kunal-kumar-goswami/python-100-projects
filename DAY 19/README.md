@@ -47,13 +47,5 @@ python main.py
 
 No external libraries required.
 
-```
-## 🎥 Project Demo
-
-<video src="https://github.com/kunal-kumar-goswami/python-100-projects/blob/main/DAY%2019/Video%20Project.mp4" controls width="100%">
-  Your browser does not support the video tag.
-</video>
-```
-
 
 ⬅️ · [Back to full project index](https://github.com/kunal-kumar-goswami/python-100-projects)

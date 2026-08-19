@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/kunal-kumar-goswami/100_days_of_python/blob/main/DAY%2001/day01-banner.png" width="100%" />
+  <img src="https://github.com/kunal-kumar-goswami/python-100-projects/blob/main/DAY%2001/day01-banner.png" width="100%" />
 </p>
 
 # Day 01 — Getting Started with Python

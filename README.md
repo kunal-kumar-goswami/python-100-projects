@@ -167,7 +167,7 @@ Each day's folder is self-contained.
 
 ```bash
 git clone https://github.com/kunal-kumar-goswami/100-days-of-python.git
-cd 100-days-of-python/dayXX
+cd 100-days-of-python/(add day here )
 pip install -r requirements.txt   # if present
 python main.py
 ```

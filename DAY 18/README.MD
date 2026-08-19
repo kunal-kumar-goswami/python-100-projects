@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Day 18 — Turtle Graphics banner" width="100%" />
+  <img src="https://github.com/kunal-kumar-goswami/python-100-projects/blob/main/DAY%2018/day18-banner.png" alt="Day 18 — Turtle Graphics banner" width="100%" />
 </p>
 
 # Day 18 — Turtle Graphics & Hirst Painting

@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://github.com/kunal-kumar-goswami/100_days_of_python/blob/main/DAY%2007/HANGMAN/day07-banner.png" alt=" Day 06 — Escaping the Maze" width="100%" />
+  <img src="https://github.com/kunal-kumar-goswami/python-100-projects/blob/main/DAY%2006/day06-banner.png" alt=" Day 07 — Hangman" width="100%" />
 </p>
 
 # Day 07 — 🎯 Hangman
 
-> Part of my [100 Days of Python](https://github.com/kunal-kumar-goswami/100_days_of_python) journey — Angela Yu's Python Pro Bootcamp
+> Part of my [100 Days of Python](https://github.com/kunal-kumar-goswami/python-100-projects) journey — Angela Yu's Python Pro Bootcamp
 
 A classic Hangman game built up in stages — starting from checking a single guessed letter, through to a fully playable game with a life counter and ASCII art that updates as the player makes mistakes.
 

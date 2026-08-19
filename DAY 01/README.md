@@ -4,7 +4,7 @@
 
 # Day 01 — Getting Started with Python
 
-> Part of my [100 Days of Python](https://github.com/kunal-kumar-goswami/100_days_of_python) journey — Angela Yu's Python Pro Bootcamp
+> Part of my [100 Days of Python](https://github.com/kunal-kumar-goswami/python-100-projects) journey — Angela Yu's Python Pro Bootcamp
 
 The very first day of the challenge — covering the absolute basics of Python: printing to the console, string concatenation, escape characters, variables, and taking user input.
 
@@ -12,8 +12,8 @@ The very first day of the challenge — covering the absolute basics of Python: 
 
 | Folder | Description |
 |---|---|
-| [`exercise/`](https://github.com/kunal-kumar-goswami/100_days_of_python/tree/main/DAY%2001/exercise) | 3 warm-up exercises — print practice, string concatenation & debugging, variables & `input()` |
-| [`project/`](https://github.com/kunal-kumar-goswami/100_days_of_python/tree/main/DAY%2001/project) | 🎸 **Band Name Generator** — combines the user's hometown and pet name into a band name |
+| [`exercise/`](https://github.com/kunal-kumar-goswami/python-100-projects/tree/main/DAY%2001/exercise) | 3 warm-up exercises — print practice, string concatenation & debugging, variables & `input()` |
+| [`project/`](https://github.com/kunal-kumar-goswami/python-100-projects/tree/main/DAY%2001/project) | 🎸 **Band Name Generator** — combines the user's hometown and pet name into a band name |
 
 ## 🎯 What I Learned
 
@@ -28,4 +28,4 @@ The very first day of the challenge — covering the absolute basics of Python: 
 
 ---
 
-➡️ [Exercises](https://github.com/kunal-kumar-goswami/100_days_of_python/tree/main/DAY%2001/exercise) · [Project](https://github.com/kunal-kumar-goswami/100_days_of_python/tree/main/DAY%2001/project) · [Back to full project index](https://github.com/kunal-kumar-goswami/100_days_of_python)
+➡️ [Exercises]((https://github.com/kunal-kumar-goswami/python-100-projects/tree/main/DAY%2001/exercise)) · [Project](https://github.com/kunal-kumar-goswami/python-100-projects/tree/main/DAY%2001/project) · [Back to full project index](https://github.com/kunal-kumar-goswami/python-100-projects)

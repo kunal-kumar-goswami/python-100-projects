@@ -1,6 +1,11 @@
+<p align="center">
+  <img src="https://github.com/kunal-kumar-goswami/python-100-projects/blob/main/DAY%2011/day11-banner.png" alt="Day 10 — Calculator banner" width="100%" />
+</p>
+
+
 # Day 11 — 🃏 Blackjack Capstone
 
-> Part of my [100 Days of Python](https://github.com/kunal-kumar-goswami/100_days_of_python) journey — Angela Yu's Python Pro Bootcamp
+> Part of my [100 Days of Python](https://github.com/kunal-kumar-goswami/python-100-projects) journey — Angela Yu's Python Pro Bootcamp
 
 A command-line Blackjack game against a computer dealer, with Ace handling, Blackjack detection, and a replayable game loop.
 

@@ -29,12 +29,5 @@ Day ten goes deeper into functions — default/keyword arguments, docstrings, fu
 `Python 3`
 
 ---
-[CALCULATOR PROJECT](https://github.com/kunal-kumar-goswami/100_days_of_python/tree/main/DAY%2010/project)
-
-
-<p align="center">
-  <img src="https://github.com/kunal-kumar-goswami/100_days_of_python/blob/main/DAY%2010/Calculator.png" alt="Day 10 — Calculator banner" width="100%" />
-</p>
-
 
 ➡️ [Exercises](https://github.com/kunal-kumar-goswami/python-100-projects/tree/main/DAY%2010/exercise) · [Project](https://github.com/kunal-kumar-goswami/python-100-projects/tree/main/DAY%2010/project) · [Back to full project index](https://github.com/kunal-kumar-goswami/python-100-projects/tree/main)

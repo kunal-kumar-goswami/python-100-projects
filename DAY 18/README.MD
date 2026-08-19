@@ -4,7 +4,7 @@
 
 # Day 18 — Turtle Graphics & Hirst Painting
 
-> Part of my [100 Days of Python](../) journey — Angela Yu's Python Pro Bootcamp
+> Part of my [100 Days of Python](https://github.com/kunal-kumar-goswami/python-100-projects) journey — Angela Yu's Python Pro Bootcamp
 
 Day eighteen goes deeper into the `turtle` module — drawing shapes, generating random colors, controlling headings, and combining loops with randomness — culminating in a generative art piece inspired by Damien Hirst's spot paintings.
 

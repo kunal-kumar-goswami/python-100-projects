@@ -1,6 +1,6 @@
 # Day 12 — 📝 Exercises
 
-> Part of my [100 Days of Python](https://github.com/kunal-kumar-goswami/100_days_of_python) journey — Angela Yu's Python Pro Bootcamp
+> Part of my [100 Days of Python](https://github.com/kunal-kumar-goswami/python-100-projects) journey — Angela Yu's Python Pro Bootcamp
 
 Warm-up exercises practicing scope — block scope, global vs. local variables, namespaces — plus a prime number checker.
 

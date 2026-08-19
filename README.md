@@ -176,7 +176,7 @@ Some projects (APIs, email, SMS, Stripe) need a `.env` file for API keys — che
 
 ## 🙋 Connect
 
-If you're also working through this course or have suggestions on any of these projects, feel free to open an issue or connect with me on [LinkedIn](https://www.linkedin.com/in/kunalkumargoswami/).
+If you're also working through this course or have suggestions on any of these projects, feel free to open an issue or connect with me on [LinkedIn](https://www.linkedin.com/in/kunalkumargoswami).
 
 ---
 

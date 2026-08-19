@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://github.com/kunal-kumar-goswami/100_days_of_python/blob/main/DAY%2003/day03-banner.png" alt="Day 03 — Wizard's Quest banner" width="100%" />
+  <img src="https://github.com/kunal-kumar-goswami/python-100-projects/blob/main/DAY%2003/day03-banner.png" alt="Day 03 — Wizard's Quest banner" width="100%" />
 </p>
 
 # Day 03 — Conditionals & Wizard's Quest
 
-> Part of my [100 Days of Python](https://github.com/kunal-kumar-goswami/100_days_of_python) journey — Angela Yu's Python Pro Bootcamp
+> Part of my [100 Days of Python](https://github.com/kunal-kumar-goswami/python-100-projects/tree/main) journey — Angela Yu's Python Pro Bootcamp
 
 Day three covers conditional logic — `if`/`elif`/`else` statements, comparison operators, nested conditionals, and logical operators — put into practice with a branching text adventure game.
 
@@ -12,8 +12,8 @@ Day three covers conditional logic — `if`/`elif`/`else` statements, comparison
 
 | Folder | Description |
 |---|---|
-| [`exercises/`](https://github.com/kunal-kumar-goswami/100_days_of_python/tree/main/DAY%2003/exercises) | 6 warm-up exercises — age check, even/odd checker, nested ticket pricing, pizza order calculator, logical operators |
-| [`project/`](https://github.com/kunal-kumar-goswami/100_days_of_python/tree/main/DAY%2003/project) | 🧙 **Wizard's Quest** — a choice-based text adventure with multiple branching endings |
+| [`exercises/`](https://github.com/kunal-kumar-goswami/python-100-projects/tree/main/DAY%2003/exercises) | 6 warm-up exercises — age check, even/odd checker, nested ticket pricing, pizza order calculator, logical operators |
+| [`project/`](https://github.com/kunal-kumar-goswami/python-100-projects/tree/main/DAY%2003/project) | 🧙 **Wizard's Quest** — a choice-based text adventure with multiple branching endings |
 
 ## 🎯 What I Learned
 
@@ -29,4 +29,4 @@ Day three covers conditional logic — `if`/`elif`/`else` statements, comparison
 
 ---
 
-➡️ [Exercises](./exercises) · [Project](./project) · [Back to full project index](https://github.com/kunal-kumar-goswami/100_days_of_python)
+➡️ [Exercises](https://github.com/kunal-kumar-goswami/python-100-projects/tree/main/DAY%2003/exercises) · [Project](https://github.com/kunal-kumar-goswami/python-100-projects/tree/main/DAY%2003/project) · [Back to full project index](https://github.com/kunal-kumar-goswami/python-100-projects/tree/main)

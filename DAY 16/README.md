@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Day 16 — OOP Coffee Machine banner" width="100%" />
+  <img src="https://github.com/kunal-kumar-goswami/python-100-projects/blob/main/DAY%2016/day16-banner.png" alt="Day 16 — OOP Coffee Machine banner" width="100%" />
 </p>
 
 # Day 16 — Object-Oriented Programming & Coffee Machine

@@ -1,6 +1,6 @@
 # Day 12 — 🎯 Number Guessing Game
 
-> Part of my [100 Days of Python](https://github.com/kunal-kumar-goswami/100_days_of_python) journey — Angela Yu's Python Pro Bootcamp
+> Part of my [100 Days of Python](https://github.com/kunal-kumar-goswami/python-100-projects) journey — Angela Yu's Python Pro Bootcamp
 
 A number guessing game where the player has a limited number of attempts — set by difficulty level — to guess a randomly generated number between 1 and 100.
 

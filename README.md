@@ -1,5 +1,9 @@
 ﻿# 🐍 100 Days of Python — Progress Repository
 
+ <p align="center">
+  <img src="https://github.com/kunal-kumar-goswami/python-100-projects/blob/main/DAY%2001/banner%20(2).png" width="100%" />
+</p>
+
 ![Progress](https://img.shields.io/badge/Progress-100%2F100%20Days-brightgreen)
 ![Python](https://img.shields.io/badge/Language-Python-yellow)
 ![Course](https://img.shields.io/badge/Course-100%20Days%20of%20Code%20(Angela%20Yu)-orange)

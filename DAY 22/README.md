@@ -2,7 +2,7 @@
   <img src="https://github.com/kunal-kumar-goswami/python-100-projects/blob/main/DAY%2022/day22banner.png" alt="Day 22 - Pong Game Banner" width="100%">
 </p>
 
-# Day 22 / 100 — Pong 🏓
+# Day 22  — Pong Game 🏓
 
 A classic implementation of the arcade game **Pong**, built with Python's `turtle` module, split into clean, reusable modules using OOP principles.
 

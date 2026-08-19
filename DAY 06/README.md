@@ -5,7 +5,7 @@
 
 # Day 06 — 🧩 Escaping the Maze
 
-> Part of my [100 Days of Python](../../) journey — Angela Yu's Python Pro Bootcamp
+> Part of my [100 Days of Python](https://github.com/kunal-kumar-goswami/python-100-projects) journey — Angela Yu's Python Pro Bootcamp
 
 ### 1️⃣ Functions with No Input
 A simple function definition and call, with no parameters or return value.

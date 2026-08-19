@@ -180,4 +180,4 @@ If you're also working through this course or have suggestions on any of these p
 
 ---
 
-Built while completing [100 Days of Code: The Complete Python Pro Bootcamp](https://www.appbrewery.co/) by Dr. Angela Yu — The App Brewery.
+Built while completing [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code) by Dr. Angela Yu — The App Brewery.

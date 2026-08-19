@@ -7,9 +7,6 @@
 
 This repository contains every hands-on project built while completing **"100 Days of Code: The Complete Python Pro Bootcamp"** by Dr. Angela Yu (The App Brewery) — from absolute Python basics to OOP, GUI development, automation, web scraping, Flask web development, REST APIs, databases, data science, machine learning, and 5 fully self-directed portfolio projects.
 
-Theory-only lessons (days with no accompanying project) have been excluded — every entry below is a working, runnable project.
-
-> **Note:** Project titles for Days 73–95, 99, and 100 follow the official course curriculum. A few days (96–98) reflect the actual self-directed builds completed for this repo, which differ slightly from the standard syllabus — check each day's own README for specifics.
 
 ## 📚 Table of Contents
 

@@ -1,0 +1,90 @@
+body {
+    background: #5877b5;
+    font-family: "Montserrat", sans-serif;
+}
+
+/* Main headings */
+h1, h2 {
+    color: #0B1F33;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 5rem;
+    letter-spacing: 0.5rem;
+}
+
+/* To-Do form */
+.todo-form {
+    background: #61ace7;
+    border-radius: 12px;
+}
+
+/* Main buttons */
+.btn {
+    background-color: #0B1F33;
+    color: #61ace7;
+    border: none;
+    border-radius: 8px;
+}
+
+.btn:hover {
+    background-color: #176B72;
+    color: #48bed3;
+}
+
+/* Modal */
+.modal-content {
+    background-color: #389dbc;
+    border-radius: 12px;
+}
+
+/* Navbar */
+.navbar-color {
+    background: #0B1F33;
+}
+
+/* Today */
+.card-header.today {
+    background-color: #0B1F33;
+    color: #30a8ba;
+}
+
+/* Tomorrow */
+.card-header.tomorrow {
+    background-color: #176B72;
+    color: #48bed3;
+}
+
+/* Upcoming */
+.card-header.upcoming {
+    background-color: #34495E;
+    color: #61ace7;
+}
+
+/* Error messages */
+.error {
+    color: #E5484D;
+}
+
+/* Description */
+.description {
+    background-color: #61ace7;
+    color: #172033;
+}
+
+/* Cards */
+.card {
+    background-color: #61ace7;
+    border: 1px solid #0B1F33;
+    border-radius: 12px;
+}
+
+/* Task text */
+.card-title {
+    color: #172033;
+}
+
+/* Secondary text */
+.text-muted {
+    color: #667085 !important;
+}

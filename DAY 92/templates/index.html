@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Mik's Color Generator</title>
+
+<!--      Google font-->
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+      <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+      <link href="{{ url_for('static', filename='assets/css/styles.css') }}" rel="stylesheet" />
+
+  </head>
+
+  <body>
+    <div class="w3-container w3-center w3-row" style="width:100%">
+        <h1>Image Colour Palette Generator</h1>
+        <div class="w3-cell-row" style="width:80%">
+            <div class="w3-container w3-cell">
+                <img src="{{ user_image }}" alt="user image" class="w3-border w3-padding" style="width:100%">
+            </div>
+            <div class="w3-container w3-cell">
+                <h2>Colors</h2>
+                <table class="w3-table">
+                    <tr>
+                        <th>Color</th>
+                        <th>Color Code</th>
+                    </tr>
+                    {% for color in colors %}
+                    <tr>
+                        <td style="background-color:{{color}}"></td>
+                        <td>{{color}}</td>
+                    </tr>
+                    {% endfor %}
+                </table>
+            </div>
+        </div>
+        
+        
+        <form action="{{url_for('display_colors')}}" method="POST" enctype="multipart/form-data">
+            <h2 class="w3-text w3-left-align w3-margin-left">File to Upload: </h2>
+            <!--    Table      -->
+                <table class="w3-table">
+                    <tr>
+                        <th class="w3-large">Upload File:</th>
+                        <td>
+                            <p>
+                                <input type="file" id="File" accept="image/*" name="filename" class="w3-button w3-round-xlarge w3-pale-red w3-hover-pale-yellow w3-large">
+                            </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th class="w3-large">Number of colors:</th>
+                        <td>
+                            <input class="w3-input w3-border w3-round-large" name="color_number" value="10" type="number" min="1" max="20" style="width:40%">
+                        </td>
+                    </tr>
+                    <tr>
+                        <th class="w3-large">Run:</th>
+                        <td>
+                            <input type="submit" class="w3-button w3-round-xlarge w3-pale-red w3-hover-pale-yellow w3-large" value="Run">
+                        </td>
+                    </tr>
+                </table>
+        </form>
+   </div>
+  </body>
+</html>

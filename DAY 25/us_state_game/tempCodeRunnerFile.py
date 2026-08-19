@@ -1,0 +1,1 @@
+turtle.write("Thanks for playing! Press 'exit' to quit.", align="center", font=("Arial", 12, "normal"))

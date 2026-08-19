@@ -162,10 +162,19 @@ python main.py
 
 Some projects (APIs, email, SMS, Stripe) need a `.env` file for API keys — check that day's folder for a `.env.example` if included.
 
-## 🙋 Connect
+## 📬 Contact
 
-If you're also working through this course or have suggestions on any of these projects, feel free to open an issue or connect with me on [LinkedIn](https://www.linkedin.com/in/kunalkumargoswami).
+<p align="left">
+  <a href="mailto:kunalkmrgos@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/kunal-kumar-goswami">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kunalkumargoswami/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
----
 
 Built while completing [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code) by Dr. Angela Yu — The App Brewery.

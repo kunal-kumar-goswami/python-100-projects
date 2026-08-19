@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="https://github.com/kunal-kumar-goswami/python-100-projects/blob/main/DAY%2013/day13-banner.png" alt="Day 12 — Number Guessing Game banner" width="100%" />
+</p>
+
 # Day 13 — 🐞 Debugging Practice
 
-> Part of my [100 Days of Python](https://github.com/kunal-kumar-goswami/100_days_of_python) journey — Angela Yu's Python Pro Bootcamp
+> Part of my [100 Days of Python](https://github.com/kunal-kumar-goswami/python-100-projects) journey — Angela Yu's Python Pro Bootcamp
 
 A set of classic debugging exercises — fixing broken logic in an odd/even checker, a leap year checker, and a FizzBuzz implementation. Day 13 has no standalone project; it's entirely focused on reading, testing, and fixing existing code.
 

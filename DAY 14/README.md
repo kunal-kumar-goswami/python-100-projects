@@ -1,6 +1,11 @@
+<p align="center">
+  <img src="https://github.com/kunal-kumar-goswami/python-100-projects/blob/main/DAY%2014/day14-banner.png" alt="Day 12 — Number Guessing Game banner" width="100%" />
+</p>
+
+
 # Day 14 — 📈 Higher Lower Game
 
-> Part of my [100 Days of Python](https://github.com/kunal-kumar-goswami/100_days_of_python) journey — Angela Yu's Python Pro Bootcamp
+> Part of my [100 Days of Python](https://github.com/kunal-kumar-goswami/python-100-projects) journey — Angela Yu's Python Pro Bootcamp
 
 A command-line "Higher Lower" game where the player compares two Instagram-style accounts and guesses which one has more followers — keeping score until they get one wrong.
 

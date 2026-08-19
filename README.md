@@ -166,7 +166,7 @@ This repository contains every hands-on project built while completing **"100 Da
 Each day's folder is self-contained.
 
 ```bash
-git clone https://github.com/<your-username>/100-days-of-python.git
+git clone https://github.com/kunal-kumar-goswami/100-days-of-python.git
 cd 100-days-of-python/dayXX
 pip install -r requirements.txt   # if present
 python main.py

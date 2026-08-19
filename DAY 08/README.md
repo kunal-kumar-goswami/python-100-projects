@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://github.com/kunal-kumar-goswami/100_days_of_python/blob/main/DAY%2008/day08-banner.png" alt="Day 08 — Caesar Cipher banner" width="100%" />
+  <img src="https://github.com/kunal-kumar-goswami/python-100-projects/blob/main/DAY%2008/day08-banner.png" alt="Day 08 — Caesar Cipher banner" width="100%" />
 </p>
 
 # Day 08 — Functions & the Caesar Cipher
 
-> Part of my [100 Days of Python](https://github.com/kunal-kumar-goswami/100_days_of_python) journey — Angela Yu's Python Pro Bootcamp
+> Part of my [100 Days of Python](https://github.com/kunal-kumar-goswami/python-100-projects) journey — Angela Yu's Python Pro Bootcamp
 
 Day eight builds on functions with parameters and return values, put into practice with a full Caesar Cipher tool that can encode and decode messages, handle invalid input, and restart without rerunning the program.
 
@@ -12,8 +12,8 @@ Day eight builds on functions with parameters and return values, put into practi
 
 | Folder | Description |
 |---|---|
-| [`exercises/`](https://github.com/kunal-kumar-goswami/100_days_of_python/tree/main/DAY%2008/exercise) | 2 warm-up exercises — Life in Weeks, Love Calculator |
-| [`project/`](https://github.com/kunal-kumar-goswami/100_days_of_python/tree/main/DAY%2008/project) | 🔐 **Caesar Cipher** — encodes/decodes messages by shifting letters, with input validation and a restart loop |
+| [`exercises/`](https://github.com/kunal-kumar-goswami/python-100-projects/tree/main/DAY%2008/exercise) | 2 warm-up exercises — Life in Weeks, Love Calculator |
+| [`project/`](https://github.com/kunal-kumar-goswami/python-100-projects/tree/main/DAY%2008/project) | 🔐 **Caesar Cipher** — encodes/decodes messages by shifting letters, with input validation and a restart loop |
 
 ## 🎯 What I Learned
 
@@ -29,4 +29,4 @@ Day eight builds on functions with parameters and return values, put into practi
 
 ---
 
-➡️ [Exercises](https://github.com/kunal-kumar-goswami/100_days_of_python/tree/main/DAY%2008/exercise) · [Project](https://github.com/kunal-kumar-goswami/100_days_of_python/tree/main/DAY%2008/project) · [Back to full project index](https://github.com/kunal-kumar-goswami/100_days_of_python)
+➡️ [Exercises](https://github.com/kunal-kumar-goswami/python-100-projects/tree/main/DAY%2008/exercise) · [Project](https://github.com/kunal-kumar-goswami/python-100-projects/tree/main/DAY%2008/project) · [Back to full project index](https://github.com/kunal-kumar-goswami/python-100-projects)

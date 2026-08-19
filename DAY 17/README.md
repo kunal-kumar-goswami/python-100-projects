@@ -9,12 +9,16 @@
 Day seventeen introduces Object-Oriented Programming (OOP) — creating classes and objects, defining attributes and methods, and organizing code into separate modules — put into practice with a True/False quiz program.
 
 ## 🗂️ Project Structure
+
+```
 DAY 17/
-├── main.py        # Main program and quiz execution
-├── question_model.py  # Question class
-├── quiz_brain.py  # Quiz logic, questions, answers, and score
-├── data.py        # Question data
-└── README.md
+├── main.py              # Main program and quiz execution
+├── question_model.py    # Question class
+├── quiz_brain.py        # Quiz logic, questions, answers, and score
+├── data.py              # Question data
+└── README.md            # Project documentation
+---
+
 
 ## 🎯 What I Learned
 

@@ -41,4 +41,4 @@ Day eighteen goes deeper into the `turtle` module — drawing shapes, generating
 
 ---
 
-➡️ [Exercises](./exercises) · [Project](./project) · [Back to full project index](../)
+➡️  [Back to full project index](https://github.com/kunal-kumar-goswami/python-100-projects)

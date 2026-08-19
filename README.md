@@ -14,17 +14,17 @@ This repository contains every hands-on project built while completing **"100 Da
 
 ## 📚 Table of Contents
 
-- [Beginner Projects (Days 1–30)](#-beginner-projects-days-1–30)
-- [Intermediate Projects (Days 31–40)](#️-intermediate-projects-days-31–40)
-- [Intermediate+ Projects (Days 45–53)](#-intermediate-projects-days-45–53)
-- [Web Development with Flask (Days 54–70)](#-web-development-with-flask-days-54–70)
-- [Data Science & Visualization (Days 71–80)](#-data-science--visualization-days-71–80)
-- [Portfolio Projects (Days 81–85)](#-portfolio-projects-days-81–85)
-- [Advanced Automation & Games (Days 86–95)](#️-advanced-automation--games-days-86–95)
-- [Final Capstone Projects (Days 96–100)](#-final-capstone-projects-days-96–100)
-- [Tech Stack](#️-tech-stack)
-- [How to Run a Project](#-how-to-run-a-project)
-- [Connect](#-connect)
+- [Beginner Projects (Days 1–30)](##-beginner-projects-days-1–30)
+- [Intermediate Projects (Days 31–40)](#️#-intermediate-projects-days-31–40)
+- [Intermediate+ Projects (Days 45–53)](##-intermediate-projects-days-45–53)
+- [Web Development with Flask (Days 54–70)](##-web-development-with-flask-days-54–70)
+- [Data Science & Visualization (Days 71–80)](##-data-science--visualization-days-71–80)
+- [Portfolio Projects (Days 81–85)](##-portfolio-projects-days-81–85)
+- [Advanced Automation & Games (Days 86–95)](##️-advanced-automation--games-days-86–95)
+- [Final Capstone Projects (Days 96–100)](##-final-capstone-projects-days-96–100)
+- [Tech Stack](##️-tech-stack)
+- [How to Run a Project](##-how-to-run-a-project)
+- [Connect](##-connect)
 
 ---
 

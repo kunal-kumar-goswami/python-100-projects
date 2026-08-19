@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://github.com/kunal-kumar-goswami/100_days_of_python/blob/main/DAY%2002/day02-banner.png" alt="Day 02 — Tip Calculator banner" width="100%" />
+  <img src="https://github.com/kunal-kumar-goswami/python-100-projects/blob/main/DAY%2002/day02-banner.png" alt="Day 02 — Tip Calculator banner" width="100%" />
 </p>
 
 # Day 02 — Data Types & the Tip Calculator
 
-> Part of my [100 Days of Python](https://github.com/kunal-kumar-goswami/100_days_of_python) journey — Angela Yu's Python Pro Bootcamp
+> Part of my [100 Days of Python](https://github.com/kunal-kumar-goswami/python-100-projects/tree/main) journey — Angela Yu's Python Pro Bootcamp
 
 Day two covers Python's core data types, type checking and conversion, mathematical operators and order of operations, rounding, and f-strings — put into practice with a real Tip Calculator.
 
@@ -12,8 +12,8 @@ Day two covers Python's core data types, type checking and conversion, mathemati
 
 | Folder | Description |
 |---|---|
-| [`exercises/`](https://github.com/kunal-kumar-goswami/100_days_of_python/tree/main/DAY%2002/exercise) | 4 warm-up exercises — data types, type checking/conversion, operators & BMI calculator, rounding & f-strings |
-| [`project/`](https://github.com/kunal-kumar-goswami/100_days_of_python/tree/main/DAY%2002/project) | 🧮 **Tip Calculator** — splits a restaurant bill with tip between any number of people |
+| [`exercises/`](https://github.com/kunal-kumar-goswami/python-100-projects/tree/main/DAY%2002/exercise) | 4 warm-up exercises — data types, type checking/conversion, operators & BMI calculator, rounding & f-strings |
+| [`project/`](https://github.com/kunal-kumar-goswami/python-100-projects/tree/main/DAY%2002/project) | 🧮 **Tip Calculator** — splits a restaurant bill with tip between any number of people |
 
 ## 🎯 What I Learned
 
@@ -29,4 +29,4 @@ Day two covers Python's core data types, type checking and conversion, mathemati
 
 ---
 
-➡️ [Exercises](./exercises) · [Project](./project) · [Back to full project index](https://github.com/kunal-kumar-goswami/100_days_of_python)
+➡️ [Exercises](https://github.com/kunal-kumar-goswami/python-100-projects/tree/main/DAY%2002/exercise) · [Project](https://github.com/kunal-kumar-goswami/python-100-projects/tree/main/DAY%2002/project) · [Back to full project index](https://github.com/kunal-kumar-goswami/python-100-projects/tree/main)

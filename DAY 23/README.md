@@ -24,12 +24,6 @@ DAY 23/
 └── README.md
 ```
 
-## 🎮 Controls
-
-| Action      | Key  |
-|-------------|------|
-| Move Up     | `Up` |
-
 ## ⚙️ How It Works
 
 - `Screen` is set up as a 600x600 light-blue canvas with `tracer(0)` for manual frame updates.

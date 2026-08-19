@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/kunal-kumar-goswami/python-100-projects/blob/main/DAY%2006/day06-banner.png" alt=" Day 07 — Hangman" width="100%" />
+  <img src="https://github.com/kunal-kumar-goswami/python-100-projects/blob/main/DAY%2007/day07-banner.png" alt=" Day 07 — Hangman" width="100%" />
 </p>
 
 # Day 07 — 🎯 Hangman

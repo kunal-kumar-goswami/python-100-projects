@@ -11,6 +11,7 @@ A habit-tracking script built on the [Pixela](https://pixe.la/) API, which turns
 ```
 DAY 37/
 └── main.py
+└── README.md
 ```
 
 ## ⚙️ How It Works

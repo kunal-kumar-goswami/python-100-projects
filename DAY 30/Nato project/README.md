@@ -1,4 +1,4 @@
-# NATO Phonetic Alphabet Converter 🔤
+# NATO Phonetic Alphabet Converter 
 
 > Part of my [100 Days of Python](https://github.com/kunal-kumar-goswami/python-100-projects) journey — Angela Yu's Python Pro Bootcamp
 

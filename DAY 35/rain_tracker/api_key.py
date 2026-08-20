@@ -1,2 +1,2 @@
-api= "766622b67002134fcd92e73c036c7ecf"
+api= "your API KEY"
 

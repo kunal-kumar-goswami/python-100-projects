@@ -11,7 +11,7 @@ from datetime import date
 
 
 app = Flask(__name__)
-app.config['SECRET_KEY'] = '8BYkEfBA6O6donzWlSihBXox7C0sKR6b'
+app.config['SECRET_KEY'] = 'your key'
 ckeditor = CKEditor(app)
 Bootstrap5(app)
 

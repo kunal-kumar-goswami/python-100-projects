@@ -11,5 +11,5 @@ driver.get("https://www.amazon.com")
 
 
 
-# driver.close()
-# driver.quit()
+ driver.close()
+ driver.quit()

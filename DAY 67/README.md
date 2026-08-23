@@ -36,11 +36,6 @@ DAY 67/
 - **`/delete/<int:post_id>` (delete):** removes a post and redirects back to the list.
 - **`/about`, `/contact`:** carried over unchanged from earlier days.
 
-## 🐛 Notes on the current code
-
-- **Same secret key reused across projects:** `'8BYkEfBA6O6donzWlSihBXox7C0sKR6b'` is the identical `SECRET_KEY` seen in the Day 62 and Day 64 projects. Reusing the same secret across multiple deployed apps weakens the security guarantee it's meant to provide — each app should have its own unique, environment-loaded secret.
-- **No authentication on write routes:** `/new-post`, `/edit-post`, and `/delete` are all publicly accessible to anyone who knows (or guesses) the URL — there's no login/admin check gating these actions, meaning anyone could create, edit, or delete posts. A future day likely adds user authentication to lock these down (a common next step in this capstone series).
-
 ## 🧠 Concepts Practiced
 
 - Full RESTful CRUD (`GET`/`POST` combined logically as Create, Read, Update, Delete) over a database-backed resource

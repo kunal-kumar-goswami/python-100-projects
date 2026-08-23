@@ -20,13 +20,6 @@ DAY 51/
 - **`tweet_at_provider()`:** logs into X/Twitter (handling the email step and an optional extra username-confirmation step some accounts require), enters the password, composes a tweet comparing the measured speed (`self.down`/`self.up`) against the promised speed (`PROMISED_DOWN`/`PROMISED_UP`), and posts it.
 - **Execution:** creates the bot instance, runs the speed test, then fires off the tweet — a simple two-step pipeline.
 
-## ⚠️ Important Notes
-
-- **Real credentials were shared in this conversation.** A real-looking email and password were pasted directly into the code. It's strongly worth changing that password now and switching to environment variables (`os.environ`) or a `.env` file (excluded via `.gitignore`) before this script is used again or the repo goes public.
-- **Automating login and posting on X likely violates its Terms of Service**, which generally prohibit automated/scripted account access outside their official API. This is best treated as a learning exercise in browser automation rather than a bot to run regularly against a real account — repeated automated logins can also trigger suspicious-activity flags or a temporary lock.
-- **Bare `except: pass`** in the optional username-confirmation step silently swallows *any* exception, not just the expected "element not found" case — if something else goes wrong there (e.g. a network hiccup), it would fail silently rather than surfacing the real error. Catching the specific exception (e.g. `NoSuchElementException`) would be safer.
-- **Absolute XPaths for the speed results** are tightly coupled to Speedtest.net's current page layout — any UI change there would break the scraping step.
-
 ## 🧠 Concepts Practiced
 
 - Object-Oriented design for a multi-step automation workflow

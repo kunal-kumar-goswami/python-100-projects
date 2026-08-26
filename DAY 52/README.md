@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/kunal-kumar-goswami/python-100-projects/blob/main/DAY%2051/day51banner.png" alt="Day 52 - Insta Follower Bot Banner" width="100%">
+  <img src="https://github.com/kunal-kumar-goswami/python-100-projects/blob/main/DAY%2052/day52banner.png" alt="Day 52 - Insta Follower Bot Banner" width="100%">
 </p>
 
 # Day 52 - Instagram Follower Bot 📸🤖

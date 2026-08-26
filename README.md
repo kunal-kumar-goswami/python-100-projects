@@ -115,7 +115,7 @@ This repository contains every hands-on project built while completing **"100 Da
 | [66](https://github.com/kunal-kumar-goswami/python-100-projects/tree/main/DAY%2066) | Nearby Café REST API | RESTful API design, HTTP methods |
 | [67](https://github.com/kunal-kumar-goswami/python-100-projects/tree/main/DAY%2067) | Blog Capstone — Part 3 | RESTful routing, SQLAlchemy |
 | [68](https://github.com/kunal-kumar-goswami/python-100-projects/tree/main/DAY%2068) | Flask Authentication | Hashing & salting, Flask-Login |
-| [69](https://github.com/kunal-kumar-goswami/python-100-projects/tree/main/DAY%2069) [70](https://github.com/kunal-kumar-goswami/python-100-projects/tree/main/DAY%2070)[71](https://github.com/kunal-kumar-goswami/python-100-projects/tree/main/DAY%2071)| Blog Capstone — Part 4 + Deployment | User auth, Heroku deployment |
+| [69](https://github.com/kunal-kumar-goswami/python-100-projects/tree/main/DAY%2069)   [70](https://github.com/kunal-kumar-goswami/python-100-projects/tree/main/DAY%2070)   [71](https://github.com/kunal-kumar-goswami/python-100-projects/tree/main/DAY%2071)| Blog Capstone — Part 4 + Deployment | User auth, Heroku deployment |
 
 ## 📊 Data Science & Visualization (Days 72–81)
 

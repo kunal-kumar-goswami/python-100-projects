@@ -150,22 +150,21 @@ This repository contains every hands-on project built while completing **"100 Da
 | [88](https://github.com/kunal-kumar-goswami/python-100-projects/tree/main/DAY%2088) | Cafe & Wifi Website (Advanced) | Flask, WTForms, database |
 | [89](https://github.com/kunal-kumar-goswami/python-100-projects/tree/main/DAY%2089) | To-Do Agenda App | Task management application |
 | [90](https://github.com/kunal-kumar-goswami/python-100-projects/tree/main/DAY%2089) | Disappearing Text Writing App | Distraction-free writing tool |
-| [90](./day90) | PDF to Audiobook Converter | PDF text extraction + text-to-speech |
-| [91](./day91) | Image Color Extractor | Extracting dominant colors from an image |
-| [92](./day92) | Amazon Price Web Scraper | BeautifulSoup/Selenium scraping |
-| [93](./day93) | Google Dinosaur Game Bot | Selenium automation bot |
-| [94](./day94) | Space Invaders | Arcade game clone |
-| [95](./day95) | Custom REST API | Building and documenting a REST API |
+| [91](https://github.com/kunal-kumar-goswami/python-100-projects/tree/main/DAY%2091) | PDF to Audiobook Converter | PDF text extraction + text-to-speech |
+| [92](https://github.com/kunal-kumar-goswami/python-100-projects/tree/main/DAY%2092) | Image Color Extractor | Extracting dominant colors from an image |
+| [93](https://github.com/kunal-kumar-goswami/python-100-projects/tree/main/DAY%2093) | Amazon Price Web Scraper | BeautifulSoup/Selenium scraping |
+| [94](https://github.com/kunal-kumar-goswami/python-100-projects/tree/main/DAY%2094) | Google Dinosaur Game Bot | Selenium automation bot |
+| [95](https://github.com/kunal-kumar-goswami/python-100-projects/tree/main/DAY%2095) | Space Invaders | Arcade game clone |
+| [96](https://github.com/kunal-kumar-goswami/python-100-projects/tree/main/DAY%2096) | Email News Digest App  |NewsAPI, `smtplib`/Gmail automated email digests |
 
-## 🚀 Final Capstone Projects (Days 96–100)
+## 🚀 Final Capstone Projects (Days 97–100)
 
 | Day | Project | Key Concepts |
 |---|---|---|
-| [96](./day96) | Email News Digest App | NewsAPI, `smtplib`/Gmail automated email digests |
-| [97](./day97) | NFT Online Shop | Flask, WTForms, Moralis API, Bootstrap, Stripe integration |
-| [98](./day98) | Auto File Organizer | Automation script sorting files by type, logging, Gmail summary reports |
-| [99](./day99) | Analyzing Deaths Involving Police in the US | Data cleaning, statistical analysis, visualization |
-| [100](./day100) | Final Capstone — Predicting Earnings | Multivariable regression, full project write-up |
+| [97](https://github.com/kunal-kumar-goswami/python-100-projects/tree/main/DAY%2097) | NFT Online Shop | Flask, WTForms, Moralis API, Bootstrap, Stripe integration |
+| [98](https://github.com/kunal-kumar-goswami/python-100-projects/tree/main/DAY%2098) | Auto File Organizer | Automation script sorting files by type, logging, Gmail summary reports |
+| [99](https://github.com/kunal-kumar-goswami/python-100-projects/tree/main/DAY%2099) | Analyzing Deaths Involving Police in the US | Data cleaning, statistical analysis, visualization |
+| [100](https://github.com/kunal-kumar-goswami/python-100-projects/tree/main/DAY%20100) | Final Capstone — Predicting Earnings | Multivariable regression, full project write-up |
 
 ---
 
